@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f47ebff.css",
+    "main.js": "/static/js/main.1a742416.js",
+    "static/media/imgDev.jpg": "/static/media/imgDev.9fc9505e978b420b4288.jpg",
+    "static/media/mon-cv.pdf": "/static/media/mon-cv.75cf0d32b4d486edccb4.pdf",
+    "static/media/booki.webp": "/static/media/booki.f3ae186c68c16a1a0772.webp",
+    "static/media/fahad.jpg": "/static/media/fahad.1b53473aaef0b0d9736c.jpg",
+    "static/media/nina-carducci.jpg": "/static/media/nina-carducci.d6d929a6360b1f1759fd.jpg",
+    "static/media/oh-my-food.jpg": "/static/media/oh-my-food.c21a6b8a254c0659f5c8.jpg",
+    "static/media/724events.jpg": "/static/media/724events.86ee3cdaec3c5209c549.jpg",
+    "static/media/kasa.jpg": "/static/media/kasa.5bb50439d29dcfbbcbc7.jpg",
+    "static/media/ahmed.jpg": "/static/media/ahmed.e75b689a79b063429eb4.jpg",
+    "static/media/sophie-bluel.jpg": "/static/media/sophie-bluel.09ca771858c8a04718ed.jpg",
+    "static/media/print-it.jpg": "/static/media/print-it.1b8643dbb0d119eaf8c9.jpg",
+    "static/media/argent-bank.jpg": "/static/media/argent-bank.8249da5f95180d29b231.jpg",
+    "static/media/logo-fskn.jpg": "/static/media/logo-fskn.8e92d0598f37017ed4fd.jpg",
+    "static/media/avataaars.svg": "/static/media/avataaars.d2e9e512f7c57a6fa7d5ce3616131baf.svg",
+    "index.html": "/index.html",
+    "main.1f47ebff.css.map": "/static/css/main.1f47ebff.css.map",
+    "main.1a742416.js.map": "/static/js/main.1a742416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f47ebff.css",
+    "static/js/main.1a742416.js"
+  ]
+}
